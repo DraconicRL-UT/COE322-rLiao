@@ -1,3 +1,7 @@
+//Name: Robert Liao
+//EID: RQL85
+
+//Declaring and initalizing relevant c++ libraries
 #include <iostream>
 #include <vector>
 
