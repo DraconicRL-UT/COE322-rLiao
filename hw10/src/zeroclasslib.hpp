@@ -8,7 +8,7 @@
  ****
  ****************************************************************/
 
-//Group with: Mahi Juthani, tacc user: mdj2367
+//Group with: name: Mahi Juthani; tacc username: Mahijuthani; EID: mdj2367
 
 #include <cmath>
 #include <iostream>
