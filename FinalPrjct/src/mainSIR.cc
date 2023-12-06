@@ -57,7 +57,6 @@ int main(){
   int contagionDuration = 0;
   while(sample.cInfect()>0){
     sample.one_more_day();
-    cout << "one more day: " << contagionDuration << "\n";
     sample.infectSIR();
     contagionDuration++;}
 
